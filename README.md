@@ -5,4 +5,6 @@ in here!
 
 ## Installation
 
-Coming soon.
+```bash
+npx skills add johngeorgesample/skills
+```
